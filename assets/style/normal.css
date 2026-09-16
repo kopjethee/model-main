@@ -9,6 +9,6 @@
 body {
   font-family: "Comic Relief", system-ui;
   background-color: Canvas;
-  color: CanvasText;
-  color-scheme: light dark;
+  color: white;
+  color-scheme: light rgb(212, 78, 100);
 }
