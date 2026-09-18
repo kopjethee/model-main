@@ -1,13 +1,13 @@
 /* HIER KOMT JOUW CSS */
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../type/ComicRelief-Regular.woff2);
+  font-family: "Ms Madi";
+  src: url(../type/MsMadi-Regular.woff2);
   font-weight: 400;
   font-style: normal;
 }
 
 body {
-  font-family: "Comic Relief", system-ui;
+  font-family: "Ms Madi", system-ui;
   background-color: Canvas;
   color: white;
   color-scheme: light rgb(212, 78, 100);
