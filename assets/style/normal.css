@@ -38,4 +38,6 @@ body {
 
 header h1 {
   font-family: "Ms Madi", cursive;
+  font-size: clamp(2rem, 8vw, 3.5rem);
+  text-align: center;
 }
