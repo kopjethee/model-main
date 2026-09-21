@@ -24,6 +24,16 @@ body {
   background-color: Canvas;
   color: white;
   color-scheme: light dark;
+  background-image: url(../images/Lightmode1.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-image: url(../images/Darkmode1.jpeg);
+  }
 }
 
 header h1 {
