@@ -88,6 +88,16 @@ _Bijschrift: één zin: wat zie je en waarom staat het hier?_
 
 **Voorbereiding gelezen/bekeken:** The Guardian (27 dec 2025) *From shrimp Jesus to erotic tractors*; *Dead Internet Theory* (Observatory TEC, 2026); extra: *Alive Internet Theory* en *Cursor Camp*. _(alleen opnemen wat ik echt gelezen heb)_
 
+**Werkblad *Hoe webby is jouw website?* (mijn antwoorden):**
+- *Fluïde/adaptief:* het ziet er goed uit en de light/dark-versie werkt, maar ik ga de te donkere achtergrond veranderen. Er is nog niet genoeg tekst om te zien of de opmaak goed reageert.
+- *Interactief/dynamisch:* nog geen interactieve elementen; ik wil animaties toevoegen.
+- *Toegankelijk:* het contrast met de achtergrond is niet sterk genoeg; ik maak de achtergrond minimalistischer. Bij de buttons is het contrast wel genoeg.
+- *Volwassen:* mijn website is nog heel kinderachtig; er staat nog niets over data in, en nog geen cookie-pop-up.
+- *Expressief:* nog geen CSS-gradients en geen transities.
+- *Leuk/verrassend:* _(niet ingevuld)_
+
+**Wat ga ik hierdoor veranderen:** contrast en achtergrond (gradients), transities/animaties, consent component. _(aanvullen en afvinken als het gedaan is)_
+
 **Bronnen:** _(nog invullen)_
 
 **Achteraf geschreven?** ja / nee _(ja = zet erbij wanneer en waarop gebaseerd)_
@@ -274,7 +284,7 @@ _Bijschrift: één zin: wat zie je en waarom staat het hier?_
 
 **Wat ik geleerd heb (eigen woorden):** _(nog invullen)_
 
-**Werkvel cookie/consent:** _(foto rechtop + één zin)_
+**Werkvel *Welingelichte Cookie Consent?*:** In een duo onderzocht ik de cookiebanners van de Volkskrant en van Paradiso aan de hand van vier vakjes per site: *de uitleg*, *UX patterns*, *business* en *privacy*. Wat ik noteerde: bij de Volkskrant zijn er privacy-instellingen en kun je alle partners (99 bedrijven) individueel zien, wat veel keuzes zijn; de site verdient er geld mee. Bij Paradiso wordt per kopje uitgelegd waar de cookies voor dienen, en worden partners als Meta, Apple, Google, Issuu, SoundCloud, Spotify, TikTok en YouTube genoemd; de data maakt advertenties gepersonaliseerd en adverteerders waardevoller voor uitgevers. _(Dit is een samenvatting van mijn werkvel; controleer tegen de foto en vul aan met mijn eigen conclusie: wat doen deze banners goed en slecht, en wat doe ik anders in mijn consent component?)_ Foto: _(rechtop, één zin bijschrift)_
 
 **Bronnen:** Lesstof Privacy op het web (DLO).
 
@@ -302,7 +312,7 @@ _Bijschrift: één zin: wat zie je en waarom staat het hier?_
 ![Beschrijf wat er op de afbeelding te zien is](assets/images/log/jjjj-mm-dd-korte-naam.png)
 _Bijschrift: één zin: wat zie je en waarom staat het hier?_
 
-### Wo 16 sep — Workshop 5: detail design
+### Wo 16 sep — _(onderwerp controleren)_
 
 **Wat deden we / wat deed ik:** _(nog invullen)_
 
@@ -312,7 +322,7 @@ _Bijschrift: één zin: wat zie je en waarom staat het hier?_
 
 **Achteraf geschreven?** ja / nee _(ja = zet erbij wanneer en waarop gebaseerd)_
 
-### Ma 14 sep — Workshop 4: Naar een responsive design + Bi-weekly geek 1
+### Ma 14 sep — Workshop 4: Naar een responsive design
 
 **Wat deden we / wat deed ik:** Responsive web: smal beginnen, `max-width` op `main`, kolommen met `repeat(auto-fit, minmax(15em, 1fr))`, media query (`@media (width > 40em)`) voor asymmetrisch grid. Opdracht 16 (elkaars website groter/kleiner maken, wat is lelijk?) en 17 (drie responsive voorbeelden zoeken). Mijn notities en drie voorbeelden (link + waarom wel/niet goed): _(nog invullen)_
 
@@ -322,7 +332,7 @@ _Bijschrift: één zin: wat zie je en waarom staat het hier?_
 
 **Achteraf geschreven?** ja / nee _(ja = zet erbij wanneer en waarop gebaseerd)_
 
-### Vr 11 sep — Workshop 3: one-column lay-out + eerste voortgangsgesprek
+### Vr 11 sep — Eerste voortgangsgesprek _(datum controleren)_
 
 **Wat deden we / wat deed ik:** Gesprek met een docent en een 2e-jaars student Ad Frontend Design & Development, aan de hand van de randvoorwaarden van Sprint 1 en de algemene criteria. Wat liet ik zien? _(nog invullen)_
 
@@ -336,7 +346,7 @@ _Bijschrift: één zin: wat zie je en waarom staat het hier?_
 
 **Achteraf geschreven?** ja / nee _(ja = zet erbij wanneer en waarop gebaseerd)_
 
-### Wo 9 sep — Workshop 2: visual research (en presentatie, opdracht 4)
+### Wo 9 sep — Presentatie (opdracht 4) _(controleren)_
 
 **Wat deden we / wat deed ik:** Eerlijk: ik heb de presentatie niet gegeven, omdat ik hem niet gemaakt had. Ik was nog informatie aan het verzamelen over mijn onderwerp en niet op schema, omdat ik te lang over mijn onderwerp heb nagedacht. Wat heb ik hierna gedaan? _(nog invullen)_
 
@@ -346,7 +356,7 @@ _Bijschrift: één zin: wat zie je en waarom staat het hier?_
 
 **Achteraf geschreven?** ja / nee _(ja = zet erbij wanneer en waarop gebaseerd)_
 
-### Ma 7 sep — Sprintplanning + Workshop 1: je onderwerp verkennen
+### Ma 7 sep — Sprintplanning Sprint 1 _(controleren)_
 
 **Wat deden we / wat deed ik:** _(nog invullen)_
 
@@ -355,16 +365,6 @@ _Bijschrift: één zin: wat zie je en waarom staat het hier?_
 **Bronnen:** _(nog invullen)_
 
 **Achteraf geschreven?** ja / nee _(ja = zet erbij wanneer en waarop gebaseerd)_
-
-### Deep dives Sprint 1 (zelfstandig)
-
-| Deep dive | Gedaan? | Wat maakte ik / wat leerde ik |
-|---|---|---|
-| Light & dark themes | ja / nee | _(nog invullen)_ |
-| Kleur, gradients en patronen | ja / nee | _(nog invullen)_ |
-| Grid + media queries | ja / nee | _(nog invullen)_ |
-| Meer grid | ja / nee | _(nog invullen)_ |
-| Debuggen en verrijken | ja / nee | _(nog invullen)_ |
 
 ### [datum invullen] — Publiceren: source hosting, domeinnaam en GitHub Pages
 
