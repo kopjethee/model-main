@@ -29,9 +29,8 @@ html {
 }
 body {
   font-family: "IM Fell French Canon", serif;
-  background-color: Canvas;
-  color: black;
-  color-scheme: light dark;
+  background-color: var(--achtergrond);
+  color: var(--tekst);
 }
 
 header h1 {
