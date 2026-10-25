@@ -24,9 +24,6 @@ body {
   background-color: Canvas;
   color: black;
   color-scheme: light dark;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
 }
 
 @media (prefers-color-scheme: dark) {
