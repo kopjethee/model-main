@@ -19,6 +19,9 @@
   font-style: italic;
 }
 
+html {
+  color-scheme: light dark;
+}
 body {
   font-family: "IM Fell French Canon", serif;
   background-color: Canvas;
