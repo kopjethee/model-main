@@ -23,6 +23,7 @@ html {
   color-scheme: light dark;
   --achtergrond: light dark(#f6efe2, #14213d);
   --tekst: light dark (#2a1f1a, #f3e9d6);
+  --accent: light dark (#1f3f9e, #f2b84b);
 }
 body {
   font-family: "IM Fell French Canon", serif;
