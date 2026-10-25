@@ -21,6 +21,7 @@
 
 html {
   color-scheme: light dark;
+  --achtergrond: light dark(#f6efe2, #14213d);
 }
 body {
   font-family: "IM Fell French Canon", serif;
