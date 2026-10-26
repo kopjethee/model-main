@@ -103,4 +103,5 @@ body > a:first-child {
   position: absolute;
   padding: 0.5rem 1rem;
   background-color: var(--achtergrond);
+  translate: 0 -200%;
 }
