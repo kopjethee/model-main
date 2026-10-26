@@ -120,6 +120,11 @@ button {
 }
 dialog {
   background-color: var(--paneel);
+  color: var(--tekst);
+  border: 0.1rem solid var(--accent);
+  border-radius: 0.5em;
+  padding: 1.5rem;
+  text-align: center;
 }
 dialog form {
   display: flex;
