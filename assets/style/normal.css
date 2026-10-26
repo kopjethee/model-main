@@ -33,6 +33,7 @@ body {
   color: var(--tekst);
 }
 nav ul {
+  display: flex;
 }
 h1,
 h2 {
