@@ -71,3 +71,7 @@ h2 {
   font-size: clamp(2rem, 8vw, 3.5rem);
   text-align: center;
 }
+article {
+  background-color: var(--paneel);
+  border: 0.1rem solid var(--achtergrond);
+}
