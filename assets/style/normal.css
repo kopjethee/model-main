@@ -49,6 +49,7 @@ nav ul {
 nav a {
   color: var(--accent);
   text-decoration: none;
+  padding: 0.5rem 1rem;
 }
 h1,
 h2 {
