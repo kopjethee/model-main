@@ -86,3 +86,6 @@ h2 a {
   color: var(--accent);
   text-decoration: none;
 }
+main {
+  display: grid;
+}
