@@ -87,6 +87,7 @@ h2 a {
   text-decoration: none;
 }
 main {
+
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
   gap: 1rem;
@@ -94,3 +95,6 @@ main {
   margin-inline: auto;
   padding: 1rem;
 }
+
+main {
+  grid-column: 1 / -1; > h1}
