@@ -111,3 +111,6 @@ body > a[href="#inhoud"]:focus {
 dialog h2 {
   font-family: "IM Fell French Canon", serif;
 }
+button {
+  font: inherit;
+}
