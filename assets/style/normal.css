@@ -37,6 +37,7 @@ nav ul {
   gap: 1rem;
   list-style: none;
   padding: 0;
+  flex-wrap: wrap;
 }
 h1,
 h2 {
