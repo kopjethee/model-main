@@ -101,4 +101,5 @@ main > h1 {
 
 body > a:first-child {
   position: absolute;
+  padding: 0.5rem 1rem;
 }
