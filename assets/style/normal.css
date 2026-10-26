@@ -108,3 +108,5 @@ body > a[href="#inhoud"] {
 body > a[href="#inhoud"]:focus {
   translate: 0 0;
 }
+dialog h2 {
+}
