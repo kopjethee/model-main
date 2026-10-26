@@ -27,9 +27,12 @@ html {
   --tweedeaccent: light-dark(#a63d1f, #5fc4b8);
   --paneel: light-dark(#e9dcc3, #1f305c);
 }
-{
- html:has([value="light-theme"]:checked)
-color-scheme: light;
+
+html:has([value="light-theme"]:checked) {
+  color-scheme: light;
+}
+html:has([value="dark-theme"]:checked) {
+  color-scheme: dark;
 }
 body {
   font-family: "IM Fell French Canon", serif;
