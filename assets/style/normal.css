@@ -27,6 +27,7 @@ html {
   --tweedeaccent: light-dark(#a63d1f, #5fc4b8);
   --paneel: light-dark(#e9dcc3, #1f305c);
   --groen-achtergrond: light-dark(#1e6b3a #7ad39a);
+  --groen-tekst: light-dark(#ffffff #10261a);
 }
 
 html:has([value="light-theme"]:checked) {
