@@ -74,4 +74,5 @@ h2 {
 article {
   background-color: var(--paneel);
   border: 0.1rem solid var(--achtergrond);
+  border-radius: 0.5em;
 }
