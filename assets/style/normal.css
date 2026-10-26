@@ -46,6 +46,9 @@ nav ul {
   padding: 0;
   flex-wrap: wrap;
 }
+nav a {
+  color: var(--accent);
+}
 h1,
 h2 {
   font-family: "Ms Madi", cursive;
