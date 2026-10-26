@@ -34,6 +34,8 @@ body {
 }
 nav ul {
   display: flex;
+  gap: 1rem;
+  list-style: none;
 }
 h1,
 h2 {
