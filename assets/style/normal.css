@@ -56,7 +56,8 @@ nav a {
 nav a:hover {
   background-color: var(--paneel);
 }
-focus-visible {
+
+:focus-visible {
   outline: 0.2em solid var(--tweedeaccent);
   outline-offset: 0.2em;
 }
