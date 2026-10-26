@@ -32,7 +32,8 @@ body {
   background-color: var(--achtergrond);
   color: var(--tekst);
 }
-
+nav ul {
+}
 h1,
 h2 {
   font-family: "Ms Madi", cursive;
