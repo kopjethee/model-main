@@ -149,3 +149,7 @@ dialog button {
   background-color: var(--groen-achtergrond);
   color: var(--groen-tekst);
 }
+dialog a {
+  background-color: var(--rood-achtergrond);
+  color: var(--rood-tekst);
+}
