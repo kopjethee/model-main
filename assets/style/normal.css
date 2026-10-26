@@ -147,4 +147,5 @@ dialog a {
 }
 dialog button {
   background-color: var(--groen-achtergrond);
+  color: var(--groen-tekst);
 }
