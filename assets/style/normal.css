@@ -91,4 +91,5 @@ main {
   grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
   gap: 1rem;
   max-width: 60em;
+  margin-inline: auto;
 }
