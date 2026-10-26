@@ -70,6 +70,9 @@ h2 {
   font-family: "Ms Madi", cursive;
   text-align: center;
 }
+h1 {
+  font-size: clamp(2.5rem, 8vw, 4rem);
+}
 article {
   background-color: var(--paneel);
   border: 0.1rem solid var(--achtergrond);
