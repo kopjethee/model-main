@@ -105,3 +105,6 @@ body > a[href="#inhoud"] {
   background-color: var(--achtergrond);
   translate: 0 -200%;
 }
+body > a[href="#inhoud"]:focus {
+  translate: 0 0;
+}
