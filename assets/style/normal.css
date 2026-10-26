@@ -132,3 +132,6 @@ dialog form {
   gap: 1rem;
   flex-wrap: wrap;
 }
+dialog::backdrop {
+  background-color: rgb(0 0 0 / 0.6);
+}
