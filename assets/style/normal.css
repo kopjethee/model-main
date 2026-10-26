@@ -139,4 +139,6 @@ dialog button,
 dialog a {
   display: inline-block;
   padding: 0.5rem 1.5rem;
+  border: none;
+  border-radius: 0.5em;
 }
