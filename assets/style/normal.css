@@ -114,10 +114,10 @@ dialog h2 {
 button {
   font: inherit;
 }
+
 dialog form {
   display: flex;
-  justify content: center;
-  gap:1rem;
+  justify-content: center;
+  gap: 1rem;
   flex-wrap: wrap;
-
 }
