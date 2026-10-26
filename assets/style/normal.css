@@ -50,6 +50,7 @@ nav a {
   color: var(--accent);
   text-decoration: none;
   padding: 0.5rem 1rem;
+  border: 0.1rem solid var(--accent);
 }
 h1,
 h2 {
