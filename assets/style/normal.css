@@ -99,7 +99,7 @@ main > h1 {
   grid-column: 1 / -1;
 }
 
-body > a:first-child {
+body > a[href="#inhoud"] {
   position: absolute;
   padding: 0.5rem 1rem;
   background-color: var(--achtergrond);
