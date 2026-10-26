@@ -28,6 +28,7 @@ html {
   --paneel: light-dark(#e9dcc3, #1f305c);
   --groen-achtergrond: light-dark(#1e6b3a #7ad39a);
   --groen-tekst: light-dark(#ffffff #10261a);
+  --rood-achtergrond: light-dark(#a61e1e #ff9a9a);
 }
 
 html:has([value="light-theme"]:checked) {
