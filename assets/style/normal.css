@@ -39,7 +39,8 @@ nav ul {
   padding: 0;
   flex-wrap: wrap;
 }
-h1 h2 {
+h1,
+h2 {
   font-family: "Ms Madi", cursive;
   font-size: clamp(2rem, 8vw, 3.5rem);
   text-align: center;
