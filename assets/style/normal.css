@@ -60,7 +60,7 @@ nav a:focus-visible {
   outline: 0.2em solid var(--tweedeaccent);
   outline-offset: 0.2em;
 }
-h1,
+nav a[aria-current="page"] h1,
 h2 {
   font-family: "Ms Madi", cursive;
   font-size: clamp(2rem, 8vw, 3.5rem);
