@@ -119,7 +119,7 @@ button {
   font: inherit;
 }
 dialog {
-  background-color var(--paneel)
+  background-color: var(--paneel);
 }
 dialog form {
   display: flex;
