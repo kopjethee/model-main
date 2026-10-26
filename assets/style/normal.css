@@ -78,7 +78,7 @@ h2 {
 }
 article {
   background-color: var(--paneel);
-  border: 0.1rem solid var(--achtergrond);
+  border: 0.1rem solid var(--accent);
   border-radius: 0.5em;
   padding: 1em;
 }
