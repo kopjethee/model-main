@@ -145,3 +145,6 @@ dialog a {
   text-decoration: none;
   cursor: pointer;
 }
+dialog button {
+  background-color: var(--groen-achtergrond);
+}
