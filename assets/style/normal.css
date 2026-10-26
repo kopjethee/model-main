@@ -73,6 +73,9 @@ h2 {
 h1 {
   font-size: clamp(2.5rem, 8vw, 4rem);
 }
+h2 {
+  font-size: clamp(1.75rem, 5vw, 2.5rem);
+}
 article {
   background-color: var(--paneel);
   border: 0.1rem solid var(--achtergrond);
