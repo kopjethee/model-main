@@ -143,4 +143,5 @@ dialog a {
   border-radius: 0.5em;
   font: inherit;
   text-decoration: none;
+  cursor: pointer;
 }
