@@ -92,4 +92,5 @@ main {
   gap: 1rem;
   max-width: 60em;
   margin-inline: auto;
+  padding: 1rem;
 }
