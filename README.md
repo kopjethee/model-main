@@ -1,5 +1,11 @@
 # Model
 
+
+> **Status bij inleveren (27 oktober, 23:59):** de uitgebreide log en reflectie vul ik zo na 12en nog aan. Dit staat al wel:
+> - Gedaan: pagina's met semantische HTML, licht/donker-thema, cookie-popup die de keuze onthoudt, songtekstpagina "Let it happen" met variabele font en animatie.
+> - Nog niet ingevuld: foto's op de categoriepagina's, derde schets van de songtekst, thema-keuze wordt niet onthouden tussen pagina's.
+> - Ik heb AI als gids gebruikt (uitleg en controle van wat ik zelf typte); de code heb ik zelf geschreven. Commitgeschiedenis en chat kan ik allemaal ook laten zien.
+
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 # Learning log — Anders Gemeubileerd
