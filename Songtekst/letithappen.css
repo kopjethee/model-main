@@ -78,6 +78,8 @@ p {
     "wght" 200,
     "SRFS" 60;
   font-size: clamp(5rem, 18vw, 12rem);
+  text-transform: uppercase;
+  letter-spacing: -0.03em;
 }
 .whirlwind {
   font-variation-settings:
