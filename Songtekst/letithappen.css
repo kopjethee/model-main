@@ -94,3 +94,7 @@ p {
     "SRFS" 60;
   font-size: clamp(2.5rem, 9vw, 5rem);
 }
+
+.witruimte {
+  margin-bottom: 3rem;
+}
