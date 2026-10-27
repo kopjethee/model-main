@@ -51,8 +51,14 @@ p {
     "SRFS" 60;
 }
 .down {
+  font-variation-settings:
+    "wght" 188,
+    "SRFS" 52;
 }
 .alarm {
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 60;
 }
 .whirlwind {
 }
