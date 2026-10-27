@@ -33,6 +33,7 @@ p {
   color: darkgray;
   display: inline-block;
   writing-mode: vertical-rl;
+  vertical-align: top;
 }
 
 .growing {
