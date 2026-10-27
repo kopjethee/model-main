@@ -21,7 +21,7 @@ p {
   font-variation-settings:
     "wght" 150,
     "SRFS" 0;
-  font-size: (clamp(4rem, 15vw, 9rem));
+  font-size: clamp(4rem, 15vw, 9rem);
 }
 
 .shadow {
