@@ -87,4 +87,5 @@ p {
   font-variation-settings:
     "wght" 126,
     "SRFS" 60;
+  font-size: clamp(2.5rem, 9vw, 5rem);
 }
