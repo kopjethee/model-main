@@ -83,7 +83,23 @@ p {
   letter-spacing: -0.03em;
 }
 @keyframes --trilling {
+  0% {
+    translate: 0em 0em;
+  }
+  25% {
+    translate: -0.03em -0.03em;
+  }
+  50% {
+    translate: 0.05em 0.05em;
+  }
+  75% {
+    translate: -0.03em -0.03em;
+  }
+  100% {
+    translate: 0 0;
+  }
 }
+
 .whirlwind {
   font-variation-settings:
     "wght" 102,
