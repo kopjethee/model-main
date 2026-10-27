@@ -28,8 +28,9 @@ p {
 
 .growing {
   font-variation-settings:
-    "wght" 164,
-    "SRFS" 40;
+    "wght" 100,
+    "SRFS" 41;
+  color: green;
 }
 
 .running {
