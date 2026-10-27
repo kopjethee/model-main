@@ -114,6 +114,7 @@ p {
     "wght" 102,
     "SRFS" 40;
   font-size: clamp(2.5rem, 9vw, 5rem);
+  white-space: nowrap;
 }
 
 .happens {
