@@ -10,8 +10,8 @@ body {
 }
 p {
   font-variation-settings:
-    "wght" 164,
-    "SRFS" 40;
+    "wght" 100,
+    "SRFS" 2;
 }
 .around {
   font-variation-settings:
