@@ -10,19 +10,37 @@ body {
 }
 
 .around {
+  font-variation-settings:
+    "wght" 164,
+    "SRFS" 40;
 }
 
 .shadow {
+  font-variation-settings:
+    "wght" 164,
+    "SRFS" 40;
 }
 
 .growing {
+  font-variation-settings:
+    "wght" 164,
+    "SRFS" 40;
 }
 
 .running {
+  font-variation-settings:
+    "wght" 164,
+    "SRFS" 40;
 }
 
 .cover {
+  font-variation-settings:
+    "wght" 164,
+    "SRFS" 40;
 }
 
 .shallow {
+  font-variation-settings:
+    "wght" 164,
+    "SRFS" 40;
 }
