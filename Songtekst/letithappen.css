@@ -66,6 +66,9 @@ p {
     "SRFS" 40;
 }
 .around {
+  font-variation-settings:
+    "wght" 150,
+    "SRFS" 0;
 }
 
 .happens {
