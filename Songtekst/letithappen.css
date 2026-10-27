@@ -127,4 +127,5 @@ p {
   margin-bottom: 20rem;
 }
 .whirlwind span {
+  display: inline-block;
 }
