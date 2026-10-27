@@ -28,7 +28,7 @@ p {
   font-variation-settings:
     "wght" 196,
     "SRFS" 1;
-  font-size: clamp(5rem, 13vw, 9rem);
+  font-size: clamp(3rem, 10vw, 7rem);
   color: darkgray;
   display: inline-block;
   writing-mode: vertical-rl;
