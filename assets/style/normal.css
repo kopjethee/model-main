@@ -38,6 +38,12 @@ html:has([value="light-theme"]:checked) {
 html:has([value="dark-theme"]:checked) {
   color-scheme: dark;
 }
+.sitenaam {
+  font-family: "Ms Madi", cursive;
+  text-align: center;
+  font-size: clamp(2.5rem, 8vw, 5rem);
+  margin: 0;
+}
 body {
   font-family: "IM Fell French Canon", serif;
   background-color: var(--achtergrond);
