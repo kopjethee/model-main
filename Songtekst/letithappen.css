@@ -9,7 +9,7 @@ body {
   margin: 2rem;
 }
 h1 {
-  font-size: clamp(2.5rem, 8vw, 4.5rem);
+  font-size: 2rem;
 }
 p {
   font-variation-settings:
