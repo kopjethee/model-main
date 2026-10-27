@@ -31,6 +31,7 @@ p {
   font-size: clamp(5rem, 13vw, 9rem);
   color: darkgray;
   display: inline-block;
+  writing-mode: vertical-rl;
 }
 
 .growing {
