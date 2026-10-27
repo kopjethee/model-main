@@ -127,6 +127,7 @@ dialog {
   text-align: center;
   max-width: 32em;
   max-height: 90vh;
+  overflow: auto;
 }
 dialog form {
   display: flex;
