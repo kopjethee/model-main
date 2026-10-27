@@ -61,6 +61,7 @@ p {
   font-variation-settings:
     "wght" 100,
     "SRFS" 60;
+  letter-spacing: 0.4em;
 }
 .down {
   font-variation-settings:
