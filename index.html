@@ -102,6 +102,9 @@
         cookiepopup.showModal();
       }
       const accepteerknop = document.getElementById("accepteren");
+      accepteerknop.addEventListener("click", () => {
+        localStorage.setItem("cookiekeuze", "ja");
+      });
     </script>
   </body>
 </html>
