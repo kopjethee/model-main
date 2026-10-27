@@ -81,6 +81,7 @@ p {
   font-size: clamp(5rem, 18vw, 12rem);
   text-transform: uppercase;
   letter-spacing: -0.03em;
+  display: inline-block;
 }
 @keyframes --trilling {
   0% {
