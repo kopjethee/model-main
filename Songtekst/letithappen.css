@@ -8,7 +8,11 @@ body {
   line-height: 1.2;
   margin: 2rem;
 }
-
+p {
+  font-variation-settings:
+    "wght" 164,
+    "SRFS" 40;
+}
 .around {
   font-variation-settings:
     "wght" 164,
