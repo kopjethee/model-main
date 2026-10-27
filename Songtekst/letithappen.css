@@ -16,6 +16,7 @@ p {
     "wght" 100,
     "SRFS" 2;
   font-size: 2rem;
+  letter-spacing: 0.1em;
 }
 .around {
   font-variation-settings:
