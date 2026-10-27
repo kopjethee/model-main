@@ -28,6 +28,7 @@ p {
   font-variation-settings:
     "wght" 196,
     "SRFS" 1;
+  font-size: clamp(5rem, 13vw, 9rem);
   color: darkgray;
 }
 
@@ -35,18 +36,21 @@ p {
   font-variation-settings:
     "wght" 100,
     "SRFS" 41;
+  font-size: clamp(4rem, 12vw, 8rem);
 }
 
 .running {
   font-variation-settings:
     "wght" 192,
     "SRFS" 37;
+  font-size: clamp(2rem, 6vw, 3.5rem);
 }
 
 .cover {
   font-variation-settings:
     "wght" 200,
     "SRFS" 60;
+  font-size: clamp(2.5rem, 8vw, 4.5rem);
 }
 
 .shallow {
