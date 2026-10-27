@@ -82,6 +82,8 @@ p {
   text-transform: uppercase;
   letter-spacing: -0.03em;
 }
+@keyframes --trilling {
+}
 .whirlwind {
   font-variation-settings:
     "wght" 102,
