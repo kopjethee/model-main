@@ -39,6 +39,7 @@ p {
     "wght" 100,
     "SRFS" 41;
   font-size: clamp(4rem, 12vw, 8rem);
+  display: inline-block;
 }
 
 .running {
