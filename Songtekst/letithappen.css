@@ -41,12 +41,12 @@ p {
 
 .cover {
   font-variation-settings:
-    "wght" 164,
-    "SRFS" 40;
+    "wght" 200,
+    "SRFS" 60;
 }
 
 .shallow {
   font-variation-settings:
-    "wght" 164,
-    "SRFS" 40;
+    "wght" 100,
+    "SRFS" 60;
 }
