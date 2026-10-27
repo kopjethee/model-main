@@ -76,6 +76,7 @@ p {
   font-variation-settings:
     "wght" 200,
     "SRFS" 60;
+  font-size: clamp(5rem, 18vw, 12rem);
 }
 .whirlwind {
   font-variation-settings:
