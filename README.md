@@ -466,11 +466,9 @@ _(foto's rechtop, één zin per foto)_
 
 *Tools*: _(bijv. W3C validator, Lighthouse, wakamaifondue.com, browser DevTools: alleen wat ik echt gebruikt heb)_
 
-**Code die ik van anderen heb gebruikt en substantieel heb aangepast** (bron staat ook in de code):
-- _(nog invullen)_
 
-**AI-gebruik (eerlijk, in eigen woorden aanpassen):**
-Ik heb een AI-assistent (Claude) gebruikt als uitleg-gids: om lesstof samen te vatten, concepten en code uit te leggen, studievoorbeelden te laten zien om van te leren, en mijn log te structureren. Mijn ontwerp, content en code heb ik zelf geschreven. Ik heb geen AI-gegenereerde code, content of ontwerp in mijn inlevering gebruikt. _(Controleer of dit klopt voor wat jij echt gedaan hebt en pas aan. Noem per keer wat je vroeg als je kunt.)_
+**AI-gebruik 
+Ik heb een AI-assistent gebruikt als uitleg-gids: om lesstof samen te vatten, concepten en code uit te leggen en mijn log te structureren. Mijn ontwerp, content en code heb ik zelf geschreven.
 
 ---
 
