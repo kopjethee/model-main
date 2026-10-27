@@ -70,6 +70,7 @@ p {
     "SRFS" 52;
   display: inline-block;
   translate: 0 0.8em;
+  font-size: clamp(2.5rem, 8vw, 4rem);
 }
 .alarm {
   font-variation-settings:
