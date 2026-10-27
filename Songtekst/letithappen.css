@@ -69,6 +69,7 @@ p {
     "wght" 188,
     "SRFS" 52;
   display: inline-block;
+  translate: 0 0.8em;
 }
 .alarm {
   font-variation-settings:
