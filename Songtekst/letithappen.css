@@ -21,8 +21,9 @@ p {
 
 .shadow {
   font-variation-settings:
-    "wght" 164,
-    "SRFS" 40;
+    "wght" 196,
+    "SRFS" 1;
+  color: darkgray;
 }
 
 .growing {
