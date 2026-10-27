@@ -126,6 +126,7 @@ dialog {
   padding: 1.5rem;
   text-align: center;
   max-width: 32em;
+  max-height: 90vh;
 }
 dialog form {
   display: flex;
