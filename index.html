@@ -98,7 +98,9 @@
     </footer>
     <script>
       const cookiepopup = document.getElementById("cookies");
-      cookiepopup.showModal();
+      if (!localStorage.getItem("cookiekeuze")) {
+        cookiepopup.showModal();
+      }
     </script>
   </body>
 </html>
