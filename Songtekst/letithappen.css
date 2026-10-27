@@ -8,15 +8,20 @@ body {
   line-height: 1.2;
   margin: 2rem;
 }
+h1 {
+  font-size: clamp(2.5rem, 8vw, 4.5rem);
+}
 p {
   font-variation-settings:
     "wght" 100,
     "SRFS" 2;
+  font-size: 2.5rem;
 }
 .around {
   font-variation-settings:
     "wght" 150,
     "SRFS" 0;
+  font-size: (clamp(4rem, 15vw, 9rem));
 }
 
 .shadow {
