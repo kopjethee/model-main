@@ -129,3 +129,9 @@ p {
 .whirlwind span {
   display: inline-block;
 }
+.laag {
+  translate: 0 0.25em;
+}
+.hoog {
+  translate: 0 -0.25em;
+}
