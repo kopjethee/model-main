@@ -3,3 +3,6 @@
   src: url(font/SeraphsVF.woff2) format("woff2");
   font-size: 6rem;
 }
+body {
+  font-family: "Seraphs";
+}
