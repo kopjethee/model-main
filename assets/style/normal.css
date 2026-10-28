@@ -175,4 +175,6 @@ article img {
   height: auto;
   border-radius: 0.5em;
   aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-fit: contain;
 }
