@@ -1,0 +1,376 @@
+Wed 28-10 07:00 articles erin
+Wed 28-10 06:56 titel meer accuraat
+Wed 28-10 06:55 fix
+Wed 28-10 06:55 tyo
+Wed 28-10 06:54 alt change 5
+Wed 28-10 06:53 alt change
+Wed 28-10 06:52 code fix
+Wed 28-10 06:49 lamp p
+Wed 28-10 06:48 p kroonluchter
+Wed 28-10 06:46 lamp alt
+Wed 28-10 06:44 alt
+Wed 28-10 06:43 kroonluchter url
+Wed 28-10 06:42 kleinelamp url
+Wed 28-10 06:42 lamp
+Wed 28-10 06:40 afbeeldingen
+Wed 28-10 06:31 weer alt change
+Wed 28-10 06:29 weer alt change
+Wed 28-10 06:29 alt change
+Wed 28-10 06:23 code fix
+Wed 28-10 06:22 laten passsen
+Wed 28-10 06:19 ratio zelfde lijn
+Wed 28-10 06:17 opnieuw
+Wed 28-10 06:17 van plaats veranderd
+Wed 28-10 06:16 weer een stoelie
+Wed 28-10 06:13 fix
+Wed 28-10 06:11 WEER een canape
+Wed 28-10 05:54 border radus
+Wed 28-10 05:54 height
+Wed 28-10 05:53 article blokje css
+Wed 28-10 05:52 canape en stoel erin
+Wed 28-10 05:50 Merge branch 'master' of https://github.com/kopjethee/model-main
+Wed 28-10 05:40 img setup
+Wed 28-10 05:21 canape afbeelding erbij
+Wed 28-10 02:09 stoel img ingevoegd
+Tue 27-10 23:56 Update README with project status and reflection
+Tue 27-10 23:50 in het midden tekst slogan
+Tue 27-10 23:48 in het midden
+Tue 27-10 23:48 main p in het midden krijgen
+Tue 27-10 23:45 bekijk alles ook fixen met de naam
+Tue 27-10 23:42 max width veranderd
+Tue 27-10 23:41 opnieuw class neergezet
+Tue 27-10 23:39 weggehaald
+Tue 27-10 23:34 sitenaam css
+Tue 27-10 23:33 ook bij zitmeubelen een class
+Tue 27-10 23:33 site naam class
+Tue 27-10 23:31 class bij titel
+Tue 27-10 23:29 bron verduidelijking
+Tue 27-10 23:28 bronnen binnen article
+Tue 27-10 23:27 omschrijving canape
+Tue 27-10 23:27 omschrijving stoel anders
+Tue 27-10 23:20 streepjes weg
+Tue 27-10 23:17 code fix
+Tue 27-10 23:11 laatste cookie code dat ie wegblijft
+Tue 27-10 23:10 accepteren knop
+Tue 27-10 23:07 cookie pop up 1 keer laten zien
+Tue 27-10 22:59 button id accepteren
+Tue 27-10 22:53 whirlwind kleiner
+Tue 27-10 22:51 whirlwind whitespace want past niet op telefoon
+Tue 27-10 22:48 hoge class aan r en n
+Tue 27-10 22:46 html opgeruimd
+Tue 27-10 22:43 opruimen v
+Tue 27-10 22:43 CLASS LAAG
+Tue 27-10 22:28 laag en hoog blok
+Tue 27-10 22:21 font size titel let it happen
+Tue 27-10 22:18 buiten beeld fix
+Tue 27-10 22:18 hoogte fix
+Tue 27-10 22:17 brede cookie popup gefixt
+Tue 27-10 22:13 cookie text serieus
+Tue 27-10 22:07 display inline
+Tue 27-10 22:07 whirlwind span aangemaakt
+Tue 27-10 22:06 code fix netjes afsluiten
+Tue 27-10 21:59 afsluit haakje vergeten
+Tue 27-10 21:58 span aria fix met haakjes
+Tue 27-10 21:53 aria hidden true
+Tue 27-10 21:50 kloten met whirlwind span en aria
+Tue 27-10 21:48 aria label voor whirlwind
+Tue 27-10 21:43 grootte witruimte
+Tue 27-10 21:42 witruitmte testen
+Tue 27-10 21:39 animatie langer laten duren
+Tue 27-10 21:33 inline block alarm
+Tue 27-10 21:33 keyframe waarden
+Tue 27-10 21:18 keyframe trilling fix
+Tue 27-10 21:15 3 puntjes bij happens
+Tue 27-10 21:15 around een class veregeten te geven
+Tue 27-10 21:12 de tekst vooooor shadow terug op zijn plek
+Tue 27-10 21:11 span weghalen en alleen p want margin werkt niet dan
+Tue 27-10 21:05 witruimte
+Tue 27-10 21:01 witruimte class
+Tue 27-10 20:52 letter spacing
+Tue 27-10 20:35 kleineletter spacing want er wordt dromerig gezongen
+Tue 27-10 20:33 toch groter
+Tue 27-10 20:32 font size p kleiner
+Tue 27-10 20:31 toch weggehaald want vind het onndoig
+Tue 27-10 20:28 classes bij de spans
+Tue 27-10 20:27 span i wont be holding on
+Tue 27-10 20:26 span must be a morning
+Tue 27-10 20:24 font alarm
+Tue 27-10 20:24 font whirlwind challenge
+Tue 27-10 20:23 toch terug naar originele font size
+Tue 27-10 20:22 shadow fix plaatsing font
+Tue 27-10 20:21 font size happens
+Tue 27-10 20:21 font size fixen
+Tue 27-10 20:20 translaten want hij moet naar benee
+Tue 27-10 20:19 down inlinen
+Tue 27-10 20:05 uppercase
+Tue 27-10 20:04 letter spacing shallow
+Tue 27-10 20:04 letter spacing
+Tue 27-10 20:04 display inline block vor growing
+Tue 27-10 20:03 verticaal letters neezetten
+Tue 27-10 20:02 display inline blok voor plaatsinhg
+Tue 27-10 20:02 Merge branch 'master' of https://github.com/kopjethee/model-main
+Tue 27-10 20:01 Songtekst
+Tue 27-10 17:55 Update README.md
+Tue 27-10 04:35 code fix
+Tue 27-10 04:32 lettergrooottes
+Tue 27-10 04:29 color weggedaan
+Tue 27-10 04:25 onnodige overschreven regel weggehaald
+Tue 27-10 04:20 happens font
+Tue 27-10 04:19 around p2
+Tue 27-10 04:19 whirlwind font
+Tue 27-10 04:18 de rest vd blokken toegevoegd
+Tue 27-10 04:15 laatste classes en kleine aanpassingen
+Tue 27-10 04:12 classes in html toegevoegd
+Tue 27-10 04:06 cover en shallow font types
+Tue 27-10 02:55 kleur erbij bij growing
+Tue 27-10 02:54 shadow lettertype plus grijze kleur
+Tue 27-10 02:52 around lettertype
+Tue 27-10 02:51 running font
+Tue 27-10 02:49 p lettertype dun
+Tue 27-10 02:46 p erbij gezet voor woorden die hetzelfde blijven
+Tue 27-10 02:41 juiste font bestand die niet leeg is
+Tue 27-10 02:32 basis font variabelen even testen copy van site
+Tue 27-10 02:30 minimum en maximum font basis bneer gezet
+Tue 27-10 02:22 boxjes voor de rest van de grotere woorden
+Tue 27-10 02:20 rem eruit gehaald want klopt niet daar doet niks
+Tue 27-10 02:19 onnodige html weggehaald want staat in de weg
+Tue 27-10 02:14 licht donker thema bekijk alles
+Tue 27-10 02:13 Thema licht donker naar decoratie
+Tue 27-10 02:13 Thema naar zitmeubelen licht donker
+Tue 27-10 02:11 Thema licht dornker ook op de verlichting pagina
+Tue 27-10 01:56 3 boxen gemaakt voor de aparte woorden
+Tue 27-10 01:55 begin aan body van songtekst
+Tue 27-10 01:54 font fix 2
+Tue 27-10 01:51 font fix in songtekst css
+Tue 27-10 01:47 bekijk alles songtekst link
+Tue 27-10 01:47 decoratie songtekst link
+Tue 27-10 01:46 verlicting songtekst link
+Tue 27-10 01:44 let it happen link in zitmeubelen
+Mon 26-10 08:54 font css
+Mon 26-10 08:51 weer link
+Mon 26-10 08:49 jsj
+Mon 26-10 08:47 link naar songtekst in html
+Mon 26-10 08:46 font erin
+Mon 26-10 08:44 spatie
+Mon 26-10 08:44 growing span vergeten
+Mon 26-10 08:42 hoofdletter random
+Mon 26-10 08:42 classes
+Mon 26-10 08:40 code fix span haakje
+Mon 26-10 08:38 alle spans voor de grote woorden
+Mon 26-10 08:33 naam erin
+Mon 26-10 08:32 header weg
+Mon 26-10 08:31 alle lines een p geven
+Mon 26-10 08:24 terugknop
+Mon 26-10 08:22 h1 en p toegevoegd
+Mon 26-10 08:18 naam verandering in andere html van de songtekst
+Mon 26-10 08:17 onnodige regel weg ux compatible
+Mon 26-10 08:16 let it happen metas
+Mon 26-10 08:14 css naam veranderd songtekst
+Mon 26-10 08:11 let it happen html in de map
+Mon 26-10 07:56 in het midden
+Mon 26-10 07:55 hoogte plaatsig
+Mon 26-10 07:55 alles in het midde
+Mon 26-10 07:54 display grid
+Mon 26-10 07:54 zwart wit indicator
+Mon 26-10 07:53 body van doei invullen simpel
+Mon 26-10 07:50 doei in assets style gezet
+Mon 26-10 07:48 terug koppeling er in
+Mon 26-10 07:47 h1 oke doei en main toegevoegd
+Mon 26-10 07:45 css koppeling
+Mon 26-10 07:45 doei titel
+Mon 26-10 07:44 onnodige dingen weggehaald in doei html
+Mon 26-10 07:43 doei html opzet
+Mon 26-10 07:42 dialog a kleuren
+Mon 26-10 07:41 tekst voor button kleur
+Mon 26-10 07:40 achtergrond knop groen
+Mon 26-10 07:38 pointer
+Mon 26-10 07:38 lijnen weg tekst opschonen
+Mon 26-10 07:37 border changes
+Mon 26-10 07:36 padding dialof knop en a
+Mon 26-10 07:34 zwarte achtergrond
+Mon 26-10 07:33 dialog afgerobd
+Mon 26-10 07:31 background color set
+Mon 26-10 07:28 kommas erbij
+Mon 26-10 07:17 weigeren button
+Mon 26-10 07:15 rood tekst kleur
+Mon 26-10 07:14 rood achtergrond color scheme
+Mon 26-10 07:13 tekst kleur cookie
+Mon 26-10 07:12 groene achtergrond knop
+Mon 26-10 07:11 poging color scheme met 4 kleuren
+Mon 26-10 07:08 dialog code fixen
+Mon 26-10 07:05 dialog css neerztten
+Mon 26-10 07:00 lettertype overnemen
+Mon 26-10 06:55 nog een weigeren button toegevoegd
+Mon 26-10 06:52 andere font (wat serieuzer)
+Mon 26-10 06:51 nieuw css blok voor cookies
+Mon 26-10 06:46 pop up zien nu
+Mon 26-10 06:45 const
+Mon 26-10 06:42 script verplaatst beter
+Mon 26-10 06:40 JS voorproef
+Mon 26-10 06:37 hoofdletter alleen bij h2 terug
+Mon 26-10 06:36 weiger button
+Mon 26-10 06:35 hoofdletters weg voor js zo
+Mon 26-10 06:33 verkeerde onnodige tag verwijderd
+Mon 26-10 06:32 button maken en code fix want verkeerde volgorde gebruikt
+Mon 26-10 06:29 form method erbij
+Mon 26-10 06:27 cookie caption
+Mon 26-10 06:25 H2 COOKIES
+Mon 26-10 06:25 dialog voor de cookie base
+Mon 26-10 06:16 accent border gedaan ipv achtergrond bij article voor duidelijkheid
+Mon 26-10 06:15 link standaar boven het scherm en schuift nu mee
+Mon 26-10 06:13 gewoon normale termen gebruiken hier
+Mon 26-10 06:07 translate
+Mon 26-10 06:06 bckground color
+Mon 26-10 06:05 padding erbij
+Mon 26-10 06:04 positie absoluut
+Mon 26-10 05:56 in de h1 alleen wijzigen
+Mon 26-10 05:55 h1 in alle kolommen laten passen
+Mon 26-10 05:45 paddington erbij
+Mon 26-10 05:45 in het midden die handel
+Mon 26-10 05:44 max breeedte
+Mon 26-10 05:43 ruimte gap ertussen
+Mon 26-10 05:42 kolommen voor de categorieen
+Mon 26-10 05:41 display grid voor de main
+Mon 26-10 05:40 font size h2
+Mon 26-10 05:36 font size test
+Mon 26-10 05:35 font size eruit voor aparte blok
+Mon 26-10 05:33 text decoratie weghalen die handel
+Mon 26-10 05:31 padding erbij
+Mon 26-10 05:31 border radius toevoegen
+Mon 26-10 05:29 article backgroynd color
+Mon 26-10 05:22 focus visible fix met dubbele punt
+Mon 26-10 05:19 randen om meer dingen dan de categorieen zetten
+Mon 26-10 05:15 dikkere letters
+Mon 26-10 05:13 knop waarop ik al sta een andere kleur geven
+Mon 26-10 05:11 0.2em gedaan
+Mon 26-10 05:08 zelfde
+Mon 26-10 05:06 duidelijkheid waar toetsenbordgebruiker is
+Mon 26-10 05:04 background paneel hoverstate
+Mon 26-10 04:59 knoppen rondere hoeken geven
+Mon 26-10 04:58 dunne lijn in de knop
+Mon 26-10 04:57 padding voor de link die knop wordt
+Mon 26-10 04:55 strepen onder tekst weghalen
+Mon 26-10 04:54 nav a nu met accent color
+Mon 26-10 04:52 font in de songtekst map gezet
+Mon 26-10 04:51 songtekst font
+Mon 26-10 04:32 light en dark apart gezet voor de duidelijkheid
+Mon 26-10 04:29 haakjes want ik met een apart blok maken
+Mon 26-10 04:27 weghalen want het werkt niet binnen het html blok
+Mon 26-10 04:24 light theme checked in css
+Mon 26-10 04:18 standaard op auto instelling gezet door checked te schrijven
+Mon 26-10 04:14 tekst erbij voor de screenreader
+Mon 26-10 04:13 dark theme erbij
+Mon 26-10 04:12 light theme toegevoegd
+Mon 26-10 04:11 radio en thema erin oor label nummer 2
+Mon 26-10 04:10 label erin gezet nummer 1 automatisch
+Mon 26-10 04:05 legend binnen fieldset gezet met thema erbij
+Mon 26-10 04:04 fieldset voor light dark knop
+Mon 26-10 03:57 light dark spaties tussen de kleuren verwijderd want zo pakt ie de kleuren niet
+Mon 26-10 03:56 color scheme light dark streepje weggehaald
+Mon 26-10 03:54 h1 en h2 correctie weer
+Mon 26-10 03:52 h1 en h2 naast elkaar
+Mon 26-10 03:50 flex wrap voor nette opmaak
+Mon 26-10 03:49 list style bolletjes weghalen
+Mon 26-10 03:48 gap 1 rem want gemiddelde grootte
+Mon 26-10 03:47 display flex bij de nav
+Mon 26-10 03:46 nav ul toegevoegd
+Mon 26-10 03:28 lettertype scheiden van de h1 h2 met de paragrafen
+Mon 26-10 03:25 light dark een streepje tussen gezet want browser herkent het niet
+Mon 26-10 03:21 webring comment weg decoratie
+Mon 26-10 03:20 webring comment verwijderd
+Mon 26-10 03:12 artikelen teruggezet in de main
+Mon 26-10 03:11 de p van de h1
+Mon 26-10 03:09 nav link
+Mon 26-10 03:08 titel zitmeubelen
+Mon 26-10 03:08 zitmeubelen verse html up to date voor aanpassing
+Mon 26-10 03:04 p bij de h1
+Mon 26-10 03:03 h1 titel aangepast
+Mon 26-10 03:02 nav link toegepast
+Mon 26-10 03:02 titel decoratie
+Mon 26-10 03:00 verlichting aangepast op de pagina zelf
+Mon 26-10 02:59 titel verlichting
+Mon 26-10 02:58 decoratie en verlichting skelet aangepast en klaar voor eigen changes
+Mon 26-10 02:56 webring link verwijderd
+Mon 26-10 02:54 articles weggehaald hier en een p toegevoegd
+Mon 26-10 02:53 h1 veranderd naar bekijk alles
+Mon 26-10 02:51 hoofdletters
+Mon 26-10 02:50 home link fixen
+Mon 26-10 02:33 titel bekijk alles veranderd
+Mon 26-10 02:32 code in decoratie geplakt
+Mon 26-10 02:32 code in verlichting geplakt
+Mon 26-10 02:31 code in bekijk alles geplakt
+Mon 26-10 02:28 bekijk alles link
+Mon 26-10 02:26 decoratie ook link nu
+Mon 26-10 02:25 verlichting link gemaakt erbij
+Mon 26-10 02:22 een link voor de categorie  erin gezet
+Mon 26-10 02:16 songtekst link in zitmeubelen pagina gezet
+Mon 26-10 02:10 de home pagina een link gegeven die werkte nog namelijk niet
+Mon 26-10 02:07 hoofdletter toegevoegd
+Mon 26-10 01:57 inhoud uitvogelen
+Mon 26-10 01:55 bekijk alles veranders streepje weg
+Mon 26-10 01:53 inhoud navigatie
+Mon 26-10 01:47 aria label hoofdmenu voor de screenreader
+Mon 26-10 01:41 bekijk alles article
+Mon 26-10 01:38 songtekst link, en decoratie article
+Mon 26-10 01:34 kopje verlichting
+Mon 26-10 01:32 article zitmeublene ingevoegd
+Mon 26-10 01:29 even 4 articles gemaakt zodat ik ze kan veranderen in categorieen
+Mon 26-10 01:28 welkom en intro in de main h1 nu
+Mon 26-10 01:25 correctie p. welkomsberichtje wil ik toch niet helemaal bovenaan
+Mon 26-10 01:24 p bij header gezet als welkomsberichtje
+Mon 26-10 01:22 header in de main gezet nu
+Mon 26-10 00:49 body background color var erin gezet met achtergrond en de var tekst
+Mon 26-10 00:47 volgorde organizen
+Mon 26-10 00:46 tweede accent voor dark mode
+Mon 26-10 00:45 tweede accent light mode
+Mon 26-10 00:44 paneel kleuren voor light dark toegevoegd
+Mon 26-10 00:42 accent kleuren toegevoegd voor light en dark mode
+Mon 26-10 00:39 correctie met een sterretje tekstkleur
+Mon 26-10 00:38 tekst kleur voor light en dark modus toegevoegd
+Mon 26-10 00:37 achtergrondkleuren voor de light mode en de dark mode toegevoegd
+Mon 26-10 00:35 html color scheme light dark toegevoegd
+Mon 26-10 00:29 media color schemes weggehaald want leeg + header dichtgemaakt
+Mon 26-10 00:24 media body onnodig en weggehaald
+Mon 26-10 00:23 onnodige background instellingen weggehaald
+Mon 26-10 00:21 kleur text veranderd, samen met de background (te druk)
+Sun 25-10 23:43 Header naar de titel ipv digitaal tuintje
+Fri 23-10 10:44 bronnen
+Fri 23-10 10:42 beschrijvingen
+Fri 23-10 10:26 Readme bronnen + Zitmeubelen meubels toevoegen
+Fri 23-10 09:45 zitmeubelen html
+Fri 23-10 09:43 href puntjes
+Fri 23-10 04:28 wording en haakjes verwijderen
+Thu 22-10 13:22 readme
+Mon 19-10 12:10 songtekst
+Mon 19-10 11:42 README
+Tue 22-09 14:29 onnodige lettertypes verwijderd
+Mon 21-09 15:53 center
+Mon 21-09 15:35 anders gemeubileerd titel
+Mon 21-09 14:42 light en darkmode
+Mon 21-09 13:39 fotos in images mapjes
+Mon 21-09 13:36 backgrounds toegevoegd
+Mon 21-09 13:29 uitleg over unieke meubels en waarom
+Mon 21-09 12:44 workspace save
+Mon 21-09 11:34 haakjes weggehaald
+Mon 21-09 08:05 link fix
+Mon 21-09 08:03 font fix
+Mon 21-09 07:32 imfellfrenchcanon font
+Mon 21-09 07:17 ms madi naar woff
+Mon 21-09 07:03 ms madi bij assests
+Mon 21-09 07:00 html categorieen
+Mon 21-09 06:55 vgm nogsteeds categorieen
+Mon 21-09 06:47 categorieen
+Mon 21-09 01:40 intro
+Fri 18-09 16:10 Merge branch 'master' of https://github.com/kopjethee/model-main
+Fri 18-09 16:10 font
+Fri 18-09 16:09 tt
+Fri 18-09 05:18 font
+Fri 18-09 05:14 idk
+Fri 18-09 04:32 Update README with digital garden explanation and insights
+Wed 16-09 14:25 ik weet het niet meer
+Wed 16-09 14:07 text
+Wed 16-09 13:56 kleuren
+Wed 16-09 13:53 website check
+Wed 16-09 11:56 achternaam weggehaalld
+Wed 16-09 11:21 achternaam
+Wed 16-09 11:17 naam toegevoegd
