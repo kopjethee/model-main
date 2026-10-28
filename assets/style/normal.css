@@ -169,3 +169,7 @@ dialog a {
   background-color: var(--rood-achtergrond);
   color: var(--rood-tekst);
 }
+
+article img {
+  width: 100%;
+}
