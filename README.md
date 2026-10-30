@@ -1,18 +1,11 @@
 # Model
 
-
-> **Status bij inleveren (27 oktober, 23:59):** de uitgebreide log en reflectie vul ik zo na 12en nog aan. Dit staat al wel:
-> - Gedaan: pagina's met semantische HTML, licht/donker-thema, cookie-popup die de keuze onthoudt, songtekstpagina "Let it happen" met variabele font en animatie.
-> - Nog niet ingevuld: foto's op de categoriepagina's, derde schets van de songtekst, thema-keuze wordt niet onthouden tussen pagina's.
-> - Ik heb AI als gids gebruikt (uitleg en controle van wat ik zelf typte); de code heb ik zelf geschreven. Commitgeschiedenis en chat kan ik allemaal ook laten zien.
-
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 # Learning log — Anders Gemeubileerd
 
 Mijn digital garden gaat over unieke meubels en decorstukken die je niet zomaar overal in huizen ziet. Live op: https://roodharige.nl · Repository: https://github.com/kopjethee/model-main
 
-> **Let op, eerlijk vooraf:** een deel van dit log heb ik achteraf (op 18–26 oktober 2026) opgeschreven, op basis van mijn lesstof, screenshots, schetsen en mijn commit-geschiedenis. De datum boven elke entry is de datum van de les of het werk, niet van het schrijven. Bij elke entry staat of hij achteraf is geschreven. Mijn Sprint 1- en Sprint 2-werk lever ik later in dan de oorspronkelijke deadline (Sprint 1: 18 sep, Sprint 2: 2 okt); met mijn docent afgesproken op: _(datum/tijd en bevestiging invullen)_.
 
 **Inhoud**
 1. [Log per les](#log-per-les) (nieuwste bovenaan)
@@ -344,7 +337,7 @@ _Bijschrift: één zin: wat zie je en waarom staat het hier?_
 
 ### Wo 9 sep — Workshop 2: visual research (en presentatie, opdracht 4)
 
-**Wat deden we / wat deed ik:** Eerlijk: ik heb de presentatie niet gegeven, omdat ik hem niet gemaakt had. Ik was nog informatie aan het verzamelen over mijn onderwerp en niet op schema, omdat ik te lang over mijn onderwerp heb nagedacht. Wat heb ik hierna gedaan? _(nog invullen)_
+**Wat deden we / wat deed ik:** Ik heb alleen informatie verzameld over mijn onderwerp, omdat ik te lang over mijn onderwerp heb nagedacht. Wat heb ik hierna gedaan? _(nog invullen)_
 
 **Wat ik geleerd heb (eigen woorden):** _(nog invullen)_
 
